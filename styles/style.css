@@ -1,0 +1,20 @@
+
+body {
+  background-image: url('https://glitterrebel.com/wp-content/uploads/2019/12/HERO-IMAGE-best-underwater-hotels-in-the-world.jpg');
+  background-size: cover;
+}
+
+.card {
+  margin-top: 6rem;
+}
+
+h4{
+  font-family: cursive, Lucida;
+  font-size: xx-large;
+}
+
+#headerDude{
+  color: black;
+  background-color: aqua;
+  text-align: center;
+}
