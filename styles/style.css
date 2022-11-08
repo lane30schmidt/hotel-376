@@ -19,3 +19,11 @@ h4{
   background-color: aqua;
   text-align: center;
 }
+
+#submitButton{
+  background-color: blue;
+}
+
+#clearButton{
+  background-color: red;
+}
